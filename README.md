@@ -7,7 +7,7 @@
 
 <h4>Stuff I code with:</h4>
 
-<img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java" height="30"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-071a52?style=for-the-badge&logo=kotlin" height="30"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript" height="30"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-lightgrey?style=for-the-badge&logo=typescript" height="30"><img alt="Nodejs" src="https://img.shields.io/badge/-Node-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white" height="30"><img alt="Mongodb" src="https://img.shields.io/badge/-Node-brightgreen?style=for-the-badge&logo=MongoDB&logoColor=white" height="30"><img alt="Postgres" src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL" height="30">
+<img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java" height="30">  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-071a52?style=for-the-badge&logo=kotlin" height="30">    <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript" height="30">   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-lightgrey?style=for-the-badge&logo=typescript" height="30"> <img alt="Nodejs" src="https://img.shields.io/badge/-Node-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white" height="30">    <img alt="Mongodb" src="https://img.shields.io/badge/-Node-brightgreen?style=for-the-badge&logo=MongoDB&logoColor=white" height="30">   <img alt="Postgres" src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL" height="30">
 
 <h4>My stats:</h4>
 
