@@ -1,4 +1,4 @@
-### Hi there 👋
+<hi align="center"> Hi there👋, I am Ritvij. Nice to meet you!</h1>
 
 <!--
 **ritvij14/ritvij14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
