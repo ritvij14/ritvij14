@@ -1,7 +1,7 @@
-<hi align="center"> Hi there👋, I am Ritvij. Nice to meet you!</h1>
+<h1 align="center">Hi there👋🏻! I am Ritvij.<br> Nice to meet you!</h1>
 
-<!--
-**ritvij14/ritvij14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p>Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1572027842/6925/blob_sunglasses.png?1572027842" width="20" /></p>
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
