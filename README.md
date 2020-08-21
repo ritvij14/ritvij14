@@ -15,6 +15,6 @@
 
 <h3>Where to find me:</h3>
 
-
 [![Linkedin: ritvij-kumar-sharma](https://img.shields.io/badge/-Ritvij_Kumar_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritvij-kumar-sharma-1410-rks/)](https://www.linkedin.com/in/ritvij-kumar-sharma-1410-rks/)
 [![GitHub: Ritvij Kumar Sharma](https://img.shields.io/github/followers/ritvij14?label=follow&style=social)](https://github.com/ritvij14)
+[![Twitter: Ritvij Kumar Sharma](https://img.shields.io/twitter/follow/ritvij2001?style=social)](https://twitter.com/ritvij14_)
