@@ -20,6 +20,6 @@
 [![Twitter: Ritvij Kumar Sharma](https://img.shields.io/twitter/follow/ritvij14_?style=social)](https://twitter.com/ritvij14_)
 [![Gmail: Ritvij Kumar Sharma](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:ritvij2001@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=ritvij14&label=PROFILE+VIEWS&style=plastic&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=ritvij14&label=PROFILE+VIEWS&style=plastic&color=blue)
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
