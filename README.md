@@ -1,9 +1,9 @@
-<h1>Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Ritvij.<br> Nice to meet you!</h1>
+<h1>Hello there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Ritvij. Nice to meet you!</h1>
 
 
 <h2>Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25" /></h2>
 
-<p align="center">Currently an undergraduate pursuing my B.E. in Electronics and instrumentation from BITS Pilani, Goa campus. Interested in <b>Android and Web developmnent</b>, and an open source enthusiast and I have knowledge of Android studio and MERN stack.</p>
+<p>Currently an undergraduate pursuing my B.E. in Electronics and instrumentation from BITS Pilani, Goa campus. Interested in <b>Android and Web developmnent</b>, and an open source enthusiast and I have knowledge of Android studio and MERN stack.</p>
 
 <h3>Languages I am currently playing around with:</h3>
 
