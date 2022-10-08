@@ -3,23 +3,52 @@
 
 <h2>Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25" /></h2>
 
-<p>Currently an undergraduate pursuing my B.E. in Electronics and instrumentation from BITS Pilani, Goa campus. Interested in <b>Android and Web developmnent</b>, and an open source enthusiast and I have knowledge of Android studio and MERN stack.</p>
+<p>I am an engineering student from India and I love building digital products. My interest in coding started from my school days when we used to write programs in Java.
 
-<h3>Languages I am currently playing around with:</h3>
+Fast-forward to today, and I’ve worked on a wide variety of projects, like mobile apps for an NGO and research purposes, projects in multiple startups and applications for students of my own college.</p>
 
-<img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java" height="30">  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-071a52?style=for-the-badge&logo=kotlin" height="30">  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript" height="30"> <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="30">  <img alt="Nodejs" src="https://img.shields.io/badge/-Node-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white" height="30"> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="30"> <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" height="30">
+</br>
 
-<h3>My stats:</h3>
+<h2>Techstack I love playing around with:</h2>
+
+<a href="https://dart.dev" target="_blank"> <img align="left" alt="Dart" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/dart/dart.svg"> </a>
+<a href="https://flutter.dev" target="_blank"> <img align="left" alt="Flutter" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://graphql.org" target="_blank"><img align="left" alt="GraphQL" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/graphql/graphql.svg"></a>
+<a href="https://spring.io/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/spring/spring.svg" align="left" alt="spring" height='42px'/> </a>
+<a href="https://cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/google-cloud/google-cloud.svg" align="left" alt="google-cloud" height='42px'/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg" align="left" alt="aws" height='42px'/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" align="left" alt="css" height='42px'/> </a>
+<a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sass/sass.svg" align="left" alt="sass" height='42px'/> </a>
+</br></br></br>
+<a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg" align="left" alt="Redux" height='42px'/> </a>
+<a href="https://mui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/material-ui/material-ui.svg" align="left" alt="Material UI" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/></a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" align="left" alt="NextJS" height='42px'/> </a>
+
+
+<!-- <img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java" height="30">  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-071a52?style=for-the-badge&logo=kotlin" height="30">  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript" height="30"> <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="30">  <img alt="Nodejs" src="https://img.shields.io/badge/-Node-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white" height="30"> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="30"> <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" height="30"> -->
+
+</br>
+
+<h2>My stats:</h2>
 
 ![Ritvij's github stats](https://github-readme-stats.vercel.app/api?username=ritvij14&show_icons=true&count_private=true&theme=tokyonight)
 
+
 <h3>Where to find me:</h3>
 
-[![Linkedin: ritvij-kumar-sharma](https://img.shields.io/badge/-Ritvij_Kumar_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritvij-kumar-sharma-1410-rks/)](https://www.linkedin.com/in/ritvij-kumar-sharma-1410-rks/)
-[![GitHub: Ritvij Kumar Sharma](https://img.shields.io/github/followers/ritvij14?label=follow&style=social)](https://github.com/ritvij14)
-[![Twitter: Ritvij Kumar Sharma](https://img.shields.io/twitter/follow/ritvij14_?style=social)](https://twitter.com/ritvij14_)
-[![Gmail: Ritvij Kumar Sharma](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:ritvij2001@gmail.com)
+[![Linkedin: ritvij-kumar-sharma](https://img.shields.io/badge/-Ritvij_Kumar_Sharma-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritvij-kumar-sharma-1410-rks/)](https://www.linkedin.com/in/ritvij-kumar-sharma-1410-rks/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gmail: Ritvij Kumar Sharma](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritvij2001@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Twitter: Ritvij Kumar Sharma](https://img.shields.io/twitter/follow/ritvij14_?style=for-the-badge&logo=twitter)](https://twitter.com/ritvij14_)
 
-![Profile views](https://komarev.com/ghpvc/?username=ritvij14&label=PROFILE+VIEWS&style=plastic&color=blue)
+[![GitHub: Ritvij Kumar Sharma](https://img.shields.io/github/followers/ritvij14?label=follow&style=for-the-badge&logo=Github)](https://github.com/ritvij14)
 
-[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Profile views](https://komarev.com/ghpvc/?username=ritvij14&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
