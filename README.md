@@ -1,7 +1,7 @@
-<h1>Hello there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Ritvij. Nice to meet you!</h1>
+[<img width="100%" src="./readme_intro.gif" alt="👋 Hello there! I'm Ritvij | https://ritvij.tech" title="👋 Hello there! I'm Ritvij | https://ritvij.tech"/>](https://ritvij.tech/)
 
 
-<h2>Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25" /></h2>
+<h1>Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35" /></h1>
 
 <p>I am an engineering student from India and I love building digital products. My interest in coding started from my school days when we used to write programs in Java.
 
@@ -9,7 +9,7 @@ Fast-forward to today, and I’ve worked on a wide variety of projects, like mob
 
 </br>
 
-<h2>Techstack I love playing around with:</h2>
+<h1>Techstack I love playing around with:</h1>
 
 <a href="https://dart.dev" target="_blank"> <img align="left" alt="Dart" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/dart/dart.svg"> </a>
 <a href="https://flutter.dev" target="_blank"> <img align="left" alt="Flutter" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg"> </a>
