@@ -3,9 +3,23 @@
 
 <h1>Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35" /></h1>
 
-<p>I am an engineering student from India and I love building digital products. My interest in coding started from my school days when we used to write programs in Java.
+<p>I am a software engineer from India, and I love building digital products. My interest in coding started from my school days when we used to write programs in Java.
 
-Fast-forward to today, and I’ve worked on a wide variety of projects, like mobile apps for an NGO and research purposes, projects in multiple startups and applications for students of my own college.</p>
+Fast-forward to today, and I’ve worked on a wide variety of projects, like mobile apps for an NGO, startups and for research purposes, web development in multiple companies I have worked at, and applications for students of my own college.
+
+My fields of interest are:
+
+<h3>Mobile App Development</h3>
+- Native Android and IOS applications
+- Flutter (Cross Platform)
+- React Native (Cross Platform)
+
+<h3>Full-stack Web Development</h3>
+
+<h3>Web3 and Blockchain dev</h3>
+- Solana and EVM Ecosystems
+
+</p>
 
 </br>
 
